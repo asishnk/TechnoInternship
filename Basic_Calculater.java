@@ -44,7 +44,7 @@ public class Basic_Calculater {
 						return;
 			}
 			System.out.println("Result:" + result);
-			System.out.println("Thank You")
+			System.out.println("Thank You");
 
 		}
 		
