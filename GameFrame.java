@@ -1,4 +1,4 @@
-package asish.internship;
+package asish.internship.TechnoInternship;
 
 import javax.swing.JFrame;
 

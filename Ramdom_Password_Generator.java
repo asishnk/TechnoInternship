@@ -1,4 +1,4 @@
-package asish.internship;
+package asish.internship.TechnoInternship;
 
 import java.util.Random;
 public class Ramdom_Password_Generator {

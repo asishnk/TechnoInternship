@@ -1,4 +1,4 @@
-package asish.internship;
+package asish.internship.TechnoInternship;
 
 import java.util.Scanner;
 public class Basic_Calculater {
