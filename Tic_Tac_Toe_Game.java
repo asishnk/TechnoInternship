@@ -1,4 +1,4 @@
-package asish.internship.TechnoInternship;
+package asish.internship;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package asish.internship.TechnoInternship;
+package asish.internship;
 
 import java.awt.*;
 import java.awt.event.*;
